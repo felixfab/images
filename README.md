@@ -1,2 +1,2 @@
 # images
-![](images/github.product landing page.png)
+![](images/product landing page.png)
