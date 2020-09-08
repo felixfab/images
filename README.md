@@ -1,2 +1,2 @@
 # images
-![](images/product landing page.png)
+![](images/product%20landing%20page.png)
